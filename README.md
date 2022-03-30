@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am a Full stack Software Engineer (Frontend heavy), that loves solving problems with tools and technologies amongst many others with the below preference:
+I am a Senior Full stack Software Engineer (Frontend heavy), that loves solving problems with tools and technologies amongst many others with the below preference:
 - NextJS
 - ReactJS
 - Figma
