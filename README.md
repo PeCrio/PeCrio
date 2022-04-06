@@ -1,17 +1,22 @@
 ### Hi there 👋,
-I am a Senior Full stack Software Engineer (Frontend heavy), that loves solving problems with tools and technologies amongst many others with the below preference:
+I am a senior Full stack Software Engineer (Frontend heavy) that loves solving problems with design, technology and empathy, amongst my arsenal, below are a few of my preferred tools:
 - NextJS
 - ReactJS
 - Figma
 - Laravel
 
-Some of the others mentioned include:
+Some others include:
 - NuxtJS
 - VueJS
 - NodeJS
 - ReactNative, etc.
 
+Some principles/standards/stacks I also work with: TDD, JAMSTACK, ES6+, TypeScript, Atomic Design, MERN, Cypress, PHPUnit, CICD etc.
+
+Hobbies: Snooker, Swimming, Cycling, Music.
+
 Feel free to go through my website here: https://ossaiprecious.com to learn more and connect.
+
 
 <!--
 **PeCrio/PeCrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
