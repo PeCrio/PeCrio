@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I am a senior Full stack Software Engineer (Frontend heavy) that loves solving problems with design, technology and empathy, amongst my arsenal, below are a few of my preferred tools:
+I am a Full stack (Frontend heavy) Software Engineer that loves solving problems with design, technology and empathy. Amongst my arsenal, below are a few of my preferred tools:
 - NextJS
 - ReactJS
 - Figma
