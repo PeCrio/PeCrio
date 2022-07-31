@@ -1,5 +1,7 @@
 ### Hi there 👋,
-I am a Full stack (Frontend heavy) Software Engineer that loves solving problems with design, technology and empathy. Amongst my arsenal, below are a few of my preferred tools:
+I am Precious OSSAI, a Frontend heavy Full stack Software Engineer that loves transforming problems into scalable solutions with design and technology for intuitive human-centered experiences.
+
+I am a music and art lover that enjoys traveling and exploring. Whenever I am not writing code, designing, building, or learning something, I am probably playing video games (usually Call of Duty Mobile (COD) and car racing games), swimming, cycling, playing a game of snooker, catching up with family, friends, and acquaintances or maybe just eating and sleeping. Amongst my arsenal, below are a few of my preferred tools:
 - NextJS
 - ReactJS
 - Figma
@@ -16,19 +18,3 @@ Some principles/standards/stacks I also work with: TDD, JAMSTACK, ES6+, TypeScri
 Hobbies: Snooker, Swimming, Cycling, Music.
 
 Feel free to go through my website here: https://ossaiprecious.com to learn more and connect.
-
-
-<!--
-**PeCrio/PeCrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
