@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Precious OSSAI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Precious OSSAI
 ======================================================================================================================================
 
-Frontend heavy fullstack software engineer
+Senior front-end engineer @ Wise | ex-checkout.com
 ------------------------------------------
 
 I love transforming problems into scalable solutions with design and technology for intuitive human-centered experiences.
@@ -9,8 +9,6 @@ I love transforming problems into scalable solutions with design and technology 
 * 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [ossaiprecious.com](http://ossaiprecious.com)
 * ✉️  You can contact me at [theossaiprecious@gmail.com](mailto:theossaiprecious@gmail.com)
-* 🚀  I'm currently working on [Checkout's Fraud detection solutions](http://checkout.com/products/fraud-detection)
-* 🧠  Recently building mobile packages with Swift and Kotlin.
 * 🤝  I'm open to collaborating on anything Frontend.
 * ⚡  Music lover, upcoming pool shark, Call of Duty Mobile pro player, swimming & cycling enthusiast and a traveller
 * ➕  You can also see some of my contributions from my other [GitHub account with checkout.com](https://github.com/precious-ossai-cko).
@@ -27,5 +25,5 @@ I love transforming problems into scalable solutions with design and technology 
 
 <p align="left"> <a href="https://www.linkedin.com/in/ossaiprecious" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/PeCrio" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-### Have a glass of wine
+### Buy me a glass of wine
 <a href="https://www.buymeacoffee.com/PeCrio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
